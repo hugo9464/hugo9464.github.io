@@ -1,0 +1,13 @@
+.App-bar {
+    height: 200px;
+    text-align: center;
+}
+
+.Menu-bar {
+    height: 100px;
+    color: 'white';
+}
+
+.Button-menu {
+    color: 'white';
+}
